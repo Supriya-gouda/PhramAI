@@ -1,0 +1,129 @@
+atc_code,drug_name,drugbank_id
+B01AE02,Lepirudin,DB00001
+L01FE01,Cetuximab,DB00002
+R05CB13,Dornase alfa,DB00003
+L01XX29,Denileukin diftitox,DB00004
+L04AB01,Etanercept,DB00005
+B01AE06,Bivalirudin,DB00006
+L02AE51,Leuprolide,DB00007
+L02AE02,Leuprolide,DB00007
+L03AB11,Peginterferon alfa-2a,DB00008
+L03AB61,Peginterferon alfa-2a,DB00008
+B01AD02,Alteplase,DB00009
+S01XA13,Alteplase,DB00009
+V04CD03,Sermorelin,DB00010
+H01AC04,Sermorelin,DB00010
+L03AB06,Interferon alfa-n1,DB00011
+B03XA02,Darbepoetin alfa,DB00012
+B01AD04,Urokinase,DB00013
+L02AE03,Goserelin,DB00014
+B01AD07,Reteplase,DB00015
+B03XA01,Erythropoietin,DB00016
+H05BA01,Salmon calcitonin,DB00017
+L03AA13,Pegfilgrastim,DB00019
+L03AA09,Sargramostim,DB00020
+L03AB10,Peginterferon alfa-2b,DB00022
+L03AB60,Peginterferon alfa-2b,DB00022
+L01XX02,Asparaginase Escherichia coli,DB00023
+H01AB01,Thyrotropin alfa,DB00024
+B02BD02,"Antihemophilic factor, human recombinant",DB00025
+L04AC03,Anakinra,DB00026
+R02AB30,Gramicidin D,DB00027
+B01AD03,Anistreplase,DB00029
+A10AC01,Insulin human,DB00030
+A10AE01,Insulin human,DB00030
+A10AB01,Insulin human,DB00030
+A10AD01,Insulin human,DB00030
+A10AF01,Insulin human,DB00030
+B01AD11,Tenecteplase,DB00031
+G03GA02,Menotropins,DB00032
+G03GA03,Menotropins,DB00032
+L03AB04,Interferon alfa-2a,DB00034
+H01BA02,Desmopressin,DB00035
+B02BD08,Coagulation factor VIIa Recombinant Human,DB00036
+L03AC02,Oprelvekin,DB00038
+V03AF08,Palifermin,DB00039
+H04AA01,Glucagon,DB00040
+L03AC01,Aldesleukin,DB00041
+M03AX01,Botulinum toxin type B,DB00042
+R03DX05,Omalizumab,DB00043
+G03GA07,Lutropin alfa,DB00044
+A10AC04,Insulin lispro,DB00046
+A10AB04,Insulin lispro,DB00046
+A10AD04,Insulin lispro,DB00046
+A10AE54,Insulin glargine,DB00047
+A10AE04,Insulin glargine,DB00047
+D03BA02,Collagenase clostridium histolyticum,DB00048
+M09AB02,Collagenase clostridium histolyticum,DB00048
+D03BA52,Collagenase clostridium histolyticum,DB00048
+V03AF07,Rasburicase,DB00049
+M04AX01,Rasburicase,DB00049
+H01CC02,Cetrorelix,DB00050
+L04AB04,Adalimumab,DB00051
+H01AC01,Somatotropin,DB00052
+A16AB02,Imiglucerase,DB00053
+B01AC13,Abciximab,DB00054
+B01AD10,Drotrecogin alfa,DB00055
+L01FX02,Gemtuzumab ozogamicin,DB00056
+V09IB02,Indium In-111 satumomab pendetide,DB00057
+B02AB02,Alpha-1-proteinase inhibitor,DB00058
+L01XX24,Pegaspargase,DB00059
+L03AB07,Interferon beta-1a,DB00060
+L03AX04,Pegademase,DB00061
+B05AA01,Albumin human,DB00062
+B01AC16,Eptifibatide,DB00063
+L04AB02,Infliximab,DB00065
+G03GA06,Follitropin,DB00066
+G03GA10,Follitropin,DB00066
+G03GA05,Follitropin,DB00066
+L03AB08,Interferon beta-1b,DB00068
+L03AB09,Interferon alfacon-1,DB00069
+A10AC03,Insulin pork,DB00071
+A10AB03,Insulin pork,DB00071
+A10AE03,Insulin pork,DB00071
+A10AD03,Insulin pork,DB00071
+L01FD01,Trastuzumab,DB00072
+L01FY01,Trastuzumab,DB00072
+L01FA01,Rituximab,DB00073
+L04AC02,Basiliximab,DB00074
+L04AG01,Muromonab,DB00075
+V03AB24,Digoxin Immune Fab (Ovine),DB00076
+V10XX02,Ibritumomab tiuxetan,DB00078
+J01XX09,Daptomycin,DB00080
+V10XA53,Tositumomab,DB00081
+H01AX01,Pegvisomant,DB00082
+M03AX01,Botulinum toxin type A,DB00083
+A09AA02,Pancrelipase,DB00085
+B01AD01,Streptokinase,DB00086
+B06AA55,Streptokinase,DB00086
+L04AG06,Alemtuzumab,DB00087
+A16AB01,Alglucerase,DB00088
+V09IB04,Capromab pendetide,DB00089
+A16AB05,Laronidase,DB00090
+L04AD01,Cyclosporine,DB00091
+S01XA18,Cyclosporine,DB00091
+L04AA15,Alefacept,DB00092
+G03GA04,Urofollitropin,DB00094
+L04AG02,Efalizumab,DB00095
+G03GA08,Choriogonadotropin alfa,DB00097
+L04AA04,Antithymocyte immunoglobulin (rabbit),DB00098
+L03AA02,Filgrastim,DB00099
+D03AX06,Becaplermin,DB00102
+A01AD08,Becaplermin,DB00102
+A16AB04,Agalsidase beta,DB00103
+H01CB02,Octreotide,DB00104
+L03AB05,Interferon alfa-2b,DB00105
+L02BX01,Abarelix,DB00106
+G02AC01,Oxytocin,DB00107
+H01BB02,Oxytocin,DB00107
+L04AG03,Natalizumab,DB00108
+J05AX07,Enfuvirtide,DB00109
+J06BD01,Palivizumab,DB00110
+L04AC01,Daclizumab,DB00111
+L01FG01,Bevacizumab,DB00112
+S01LA08,Bevacizumab,DB00112
+V09IA06,Technetium Tc-99m arcitumomab,DB00113
+A11HA06,Pyridoxal phosphate,DB00114
+B03BA01,Cyanocobalamin,DB00115
+B03AE01,Cyanocobalamin,DB00115
+B03BA51,Cyanocobalamin,DB00115

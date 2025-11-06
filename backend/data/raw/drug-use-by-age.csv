@@ -1,0 +1,83 @@
+drug,age_group,usage_pattern
+Aspirin,Adult,Standard dose
+Aspirin,Geriatric,Reduced dose; monitor for bleeding
+Aspirin,Pediatric,Avoid under 12 years (Reyes syndrome risk)
+Warfarin,Adult,Dose adjusted to INR
+Warfarin,Geriatric,Lower initial dose; frequent INR monitoring
+Metformin,Adult,Standard dose with meals
+Metformin,Geriatric,Monitor renal function; adjust or avoid if eGFR < 45
+Lisinopril,Adult,Standard dose; monitor potassium
+Lisinopril,Geriatric,Reduced dose; monitor renal and potassium levels
+Simvastatin,Adult,Evening dose; avoid grapefruit juice
+Simvastatin,Geriatric,Lower dose; monitor liver enzymes
+Ibuprofen,Adult,PRN for pain; take with food
+Ibuprofen,Geriatric,Avoid long-term use; GI and renal risk
+Paracetamol,Adult,Max 4g/day; avoid alcohol
+Paracetamol,Geriatric,Max 3g/day; monitor liver function
+Paracetamol,Pediatric,Weight-based (1015 mg/kg every 6h)
+Amoxicillin,Adult,Standard dose; complete full course
+Amoxicillin,Pediatric,Weight-based dosing
+Azithromycin,Adult,Standard 35 day course
+Azithromycin,Pediatric,Weight-based dosing
+Ciprofloxacin,Adult,Avoid with antacids; hydrate well
+Ciprofloxacin,Geriatric,Dose adjust for renal function
+Insulin,Adult,Individualized dose; monitor glucose
+Insulin,Geriatric,Lower dose; avoid hypoglycemia
+Amlodipine,Adult,Once daily; titrate gradually
+Amlodipine,Geriatric,"Start low, go slow"
+Losartan,Adult,Standard dose; monitor BP and potassium
+Losartan,Geriatric,Reduced dose if renal impairment
+Omeprazole,Adult,Once daily before meals
+Omeprazole,Geriatric,Use lowest effective dose
+Diclofenac,Adult,Short-term use; take with food
+Diclofenac,Geriatric,Avoid chronic use; CV and GI risks
+Naproxen,Adult,Use PRN; take with meals
+Naproxen,Geriatric,Use short-term; monitor renal and GI effects
+Cetirizine,Adult,Once daily; avoid alcohol
+Cetirizine,Pediatric,Weight-based dosing
+Montelukast,Adult,Once daily in the evening
+Montelukast,Pediatric,Age-based chewable formulation
+Salbutamol,Adult,As needed for wheezing
+Salbutamol,Pediatric,Use spacer; weight-based inhalation
+Atorvastatin,Adult,Once daily; avoid grapefruit
+Atorvastatin,Geriatric,Lower dose; monitor LFTs
+Rosuvastatin,Adult,Start 10 mg; titrate as needed
+Rosuvastatin,Geriatric,Start 5 mg; monitor muscle symptoms
+Levothyroxine,Adult,Morning empty stomach; titrate by TSH
+Levothyroxine,Geriatric,Start low (25 µg); monitor cardiac status
+Furosemide,Adult,Morning dose; monitor electrolytes
+Furosemide,Geriatric,Lower dose; monitor dehydration
+Spironolactone,Adult,Standard dose; monitor potassium
+Spironolactone,Geriatric,Use cautiously; risk of hyperkalemia
+Digoxin,Adult,Standard maintenance dose; monitor levels
+Digoxin,Geriatric,Lower dose; increased toxicity risk
+Clopidogrel,Adult,75 mg daily; avoid PPIs (omeprazole)
+Clopidogrel,Geriatric,Standard dose; monitor for bleeding
+Metoprolol,Adult,Twice daily; monitor HR
+Metoprolol,Geriatric,Start low; monitor bradycardia
+Ramipril,Adult,Start low; titrate up
+Ramipril,Geriatric,Lower initial dose; monitor renal function
+Enalapril,Adult,Standard dose; monitor potassium
+Enalapril,Geriatric,Lower dose; watch for hypotension
+Candesartan,Adult,Once daily; monitor BP and potassium
+Candesartan,Geriatric,Lower dose; monitor renal function
+Telmisartan,Adult,Once daily; monitor BP
+Irbesartan,Adult,Standard dose; monitor BP and renal
+Glipizide,Adult,Before breakfast; monitor glucose
+Glipizide,Geriatric,Start low; risk of hypoglycemia
+Glyburide,Adult,Before meals; monitor for low sugar
+Glyburide,Geriatric,Avoid; high hypoglycemia risk
+Pioglitazone,Adult,Standard dose; monitor weight and edema
+Sitagliptin,Adult,Once daily; renal dose adjust
+Empagliflozin,Adult,Morning dose; monitor hydration
+Pravastatin,Adult,Once daily; monitor cholesterol
+Lovastatin,Adult,Evening dose; avoid erythromycin
+Fluvastatin,Adult,Evening dosing; monitor LFTs
+Ezetimibe,Adult,Once daily; can combine with statins
+Fenofibrate,Adult,Once daily; monitor liver function
+Amiodarone,Adult,Loading then maintenance dose; monitor ECG
+Hydrochlorothiazide,Adult,Morning dose; monitor electrolytes
+Indapamide,Adult,Morning; monitor BP and potassium
+Metolazone,Adult,Usually with loop diuretic; monitor electrolytes
+Bumetanide,Adult,Morning; monitor renal function
+Torsemide,Adult,Once daily; monitor fluid status

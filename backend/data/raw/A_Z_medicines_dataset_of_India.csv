@@ -1,0 +1,51 @@
+name,manufacturer,composition,price
+Crocin,GSK,Paracetamol 500mg,20
+Dolo 650,Micro Labs,Paracetamol 650mg,25
+Azithral,Alembic,Azithromycin 500mg,150
+Augmentin,GSK,Amoxicillin + Clavulanic acid,180
+Metfor,USV,Metformin 500mg,30
+Glycomet,USV,Metformin 500mg,35
+Amaryl,Sanofi,Glimepiride 2mg,80
+Telma,Glenmark,Telmisartan 40mg,120
+Amlodac,Micro Labs,Amlodipine 5mg,40
+Atorva,Zydus,Atorvastatin 10mg,50
+Lipitor,Pfizer,Atorvastatin 20mg,200
+Ecosprin,USV,Aspirin 75mg,15
+Disprin,Reckitt,Aspirin 325mg,10
+Brufen,Abbott,Ibuprofen 400mg,25
+Combiflam,Sanofi,Ibuprofen + Paracetamol,30
+Voveran,Novartis,Diclofenac 50mg,40
+Volini,Sun Pharma,Diclofenac gel,60
+Pan,Alkem,Pantoprazole 40mg,100
+Pantocid,Sun Pharma,Pantoprazole 40mg,120
+Rablet,Lupin,Rabeprazole 20mg,90
+Lasix,Sanofi,Furosemide 40mg,20
+Dytor,Torrent,Torasemide 10mg,45
+Digene,Abbott,Antacid,30
+Gelusil,Pfizer,Antacid,35
+Becosules,Pfizer,Vitamin B Complex,40
+Neurobion,Merck,Vitamin B12,50
+Shelcal,Torrent,Calcium 500mg,60
+Calcirol,Cadila,Vitamin D3,80
+Thyronorm,Abbott,Levothyroxine 50mcg,90
+Eltroxin,GSK,Levothyroxine 100mcg,100
+Covance,Dr Reddys,Valsartan 80mg,110
+Enacard,Sun Pharma,Enalapril 5mg,50
+Cardivas,Sun Pharma,Carvedilol 6.25mg,70
+Metolar,Cipla,Metoprolol 50mg,60
+Betaloc,AstraZeneca,Metoprolol 25mg,55
+Glynase,Pfizer,Glyburide 5mg,45
+Diamicron,Serdia,Gliclazide 80mg,90
+Zoryl,Sun Pharma,Glimepiride 1mg,40
+Januvia,MSD,Sitagliptin 100mg,400
+Jalra,Novartis,Vildagliptin 50mg,350
+Rosulip,Sun Pharma,Rosuvastatin 10mg,80
+Crestor,AstraZeneca,Rosuvastatin 20mg,250
+Tonact,Cipla,Atorvastatin 40mg,180
+Atorlip,Sun Pharma,Atorvastatin 10mg,70
+Febutaz,Zydus,Febuxostat 80mg,200
+Zyloric,GSK,Allopurinol 100mg,30
+Cordarone,Sanofi,Amiodarone 200mg,150
+Multaq,Sanofi,Dronedarone 400mg,500
+Digihaler,Sun Pharma,Digoxin 0.25mg,25
+Lanoxin,Aspen,Digoxin 0.25mg,30

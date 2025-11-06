@@ -1,0 +1,51 @@
+atc_code,drug_name,ddd,unit,route,therapeutic_class
+B01AC06,Aspirin,3.0,g,O,Antithrombotic
+B01AA03,Warfarin,5.0,mg,O,Anticoagulant
+A10BA02,Metformin,2000.0,mg,O,Antidiabetic
+C09AA03,Lisinopril,10.0,mg,O,ACE Inhibitor
+J01CA04,Amoxicillin,1000.0,mg,O,Antibiotic
+M01AE01,Ibuprofen,1.2,g,O,NSAID
+N02BE01,Paracetamol,3.0,g,O,Analgesic
+C10AA05,Atorvastatin,20.0,mg,O,Statin
+C08CA01,Amlodipine,5.0,mg,O,Calcium Channel Blocker
+C09CA01,Losartan,50.0,mg,O,ARB
+C10AA01,Simvastatin,30.0,mg,O,Statin
+A02BC01,Omeprazole,20.0,mg,O,Proton Pump Inhibitor
+A02BA02,Ranitidine,300.0,mg,O,H2 Blocker
+M01AB05,Diclofenac,100.0,mg,O,NSAID
+C09CA03,Valsartan,80.0,mg,O,ARB
+R06AE07,Cetirizine,10.0,mg,O,Antihistamine
+R03DC03,Montelukast,10.0,mg,O,Leukotriene Antagonist
+R03AC02,Salbutamol,0.8,mg,O,Bronchodilator
+C10AA07,Rosuvastatin,10.0,mg,O,Statin
+H03AA01,Levothyroxine,0.15,mg,O,Thyroid Hormone
+C03CA01,Furosemide,40.0,mg,O,Loop Diuretic
+C03DA01,Spironolactone,25.0,mg,O,Potassium-Sparing Diuretic
+C01AA05,Digoxin,0.25,mg,O,Cardiac Glycoside
+B01AC04,Clopidogrel,75.0,mg,O,Antiplatelet
+B01AB05,Enoxaparin,20000.0,IU,O,Anticoagulant
+C07AB02,Metoprolol,150.0,mg,O,Beta Blocker
+C07AG02,Carvedilol,50.0,mg,O,Beta Blocker
+C08DB01,Diltiazem,240.0,mg,O,Calcium Channel Blocker
+C08DA01,Verapamil,240.0,mg,O,Calcium Channel Blocker
+C09AA05,Ramipril,2.5,mg,O,ACE Inhibitor
+C09AA02,Enalapril,20.0,mg,O,ACE Inhibitor
+C09AA01,Captopril,50.0,mg,O,ACE Inhibitor
+C09CA06,Candesartan,8.0,mg,O,ARB
+C09CA07,Telmisartan,40.0,mg,O,ARB
+C09CA04,Irbesartan,150.0,mg,O,ARB
+A10BB01,Glipizide,10.0,mg,O,Sulfonylurea
+A10BB07,Glyburide,10.0,mg,O,Sulfonylurea
+A10BG03,Pioglitazone,30.0,mg,O,Thiazolidinedione
+A10BH01,Sitagliptin,100.0,mg,O,DPP-4 Inhibitor
+A10BJ01,Empagliflozin,10.0,mg,O,SGLT2 Inhibitor
+C10AA03,Pravastatin,30.0,mg,O,Statin
+C10AA02,Lovastatin,45.0,mg,O,Statin
+C10AA04,Fluvastatin,60.0,mg,O,Statin
+C10AB02,Ezetimibe,10.0,mg,O,Cholesterol Absorption Inhibitor
+C10AB05,Fenofibrate,300.0,mg,O,Fibrate
+C01BD01,Amiodarone,200.0,mg,O,Antiarrhythmic
+C01BC03,Propafenone,450.0,mg,O,Antiarrhythmic
+C01BD04,Sotalol,160.0,mg,O,Antiarrhythmic
+C01BA01,Quinidine,750.0,mg,O,Antiarrhythmic
+C01BA03,Procainamide,2000.0,mg,O,Antiarrhythmic

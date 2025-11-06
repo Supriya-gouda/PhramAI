@@ -1,0 +1,650 @@
+{
+  "lepirudin": {
+    "id": "DB00001",
+    "primary_name": "Lepirudin",
+    "normalized": "lepirudin",
+    "synonyms": []
+  },
+  "cetuximab": {
+    "id": "DB00002",
+    "primary_name": "Cetuximab",
+    "normalized": "cetuximab",
+    "synonyms": []
+  },
+  "dornase alfa": {
+    "id": "DB00003",
+    "primary_name": "Dornase alfa",
+    "normalized": "dornase alfa",
+    "synonyms": []
+  },
+  "denileukin diftitox": {
+    "id": "DB00004",
+    "primary_name": "Denileukin diftitox",
+    "normalized": "denileukin diftitox",
+    "synonyms": []
+  },
+  "etanercept": {
+    "id": "DB00005",
+    "primary_name": "Etanercept",
+    "normalized": "etanercept",
+    "synonyms": []
+  },
+  "bivalirudin": {
+    "id": "DB00006",
+    "primary_name": "Bivalirudin",
+    "normalized": "bivalirudin",
+    "synonyms": []
+  },
+  "leuprolide": {
+    "id": "DB00007",
+    "primary_name": "Leuprolide",
+    "normalized": "leuprolide",
+    "synonyms": []
+  },
+  "peginterferon alfa-2a": {
+    "id": "DB00008",
+    "primary_name": "Peginterferon alfa-2a",
+    "normalized": "peginterferon alfa-2a",
+    "synonyms": []
+  },
+  "alteplase": {
+    "id": "DB00009",
+    "primary_name": "Alteplase",
+    "normalized": "alteplase",
+    "synonyms": []
+  },
+  "sermorelin": {
+    "id": "DB00010",
+    "primary_name": "Sermorelin",
+    "normalized": "sermorelin",
+    "synonyms": []
+  },
+  "interferon alfa-n1": {
+    "id": "DB00011",
+    "primary_name": "Interferon alfa-n1",
+    "normalized": "interferon alfa-n1",
+    "synonyms": []
+  },
+  "darbepoetin alfa": {
+    "id": "DB00012",
+    "primary_name": "Darbepoetin alfa",
+    "normalized": "darbepoetin alfa",
+    "synonyms": []
+  },
+  "urokinase": {
+    "id": "DB00013",
+    "primary_name": "Urokinase",
+    "normalized": "urokinase",
+    "synonyms": []
+  },
+  "goserelin": {
+    "id": "DB00014",
+    "primary_name": "Goserelin",
+    "normalized": "goserelin",
+    "synonyms": []
+  },
+  "reteplase": {
+    "id": "DB00015",
+    "primary_name": "Reteplase",
+    "normalized": "reteplase",
+    "synonyms": []
+  },
+  "erythropoietin": {
+    "id": "DB00016",
+    "primary_name": "Erythropoietin",
+    "normalized": "erythropoietin",
+    "synonyms": []
+  },
+  "salmon calcitonin": {
+    "id": "DB00017",
+    "primary_name": "Salmon calcitonin",
+    "normalized": "salmon calcitonin",
+    "synonyms": []
+  },
+  "interferon alfa-n3": {
+    "id": "DB00018",
+    "primary_name": "Interferon alfa-n3",
+    "normalized": "interferon alfa-n3",
+    "synonyms": []
+  },
+  "pegfilgrastim": {
+    "id": "DB00019",
+    "primary_name": "Pegfilgrastim",
+    "normalized": "pegfilgrastim",
+    "synonyms": []
+  },
+  "sargramostim": {
+    "id": "DB00020",
+    "primary_name": "Sargramostim",
+    "normalized": "sargramostim",
+    "synonyms": []
+  },
+  "peginterferon alfa-2b": {
+    "id": "DB00022",
+    "primary_name": "Peginterferon alfa-2b",
+    "normalized": "peginterferon alfa-2b",
+    "synonyms": []
+  },
+  "asparaginase escherichia coli": {
+    "id": "DB00023",
+    "primary_name": "Asparaginase Escherichia coli",
+    "normalized": "asparaginase escherichia coli",
+    "synonyms": []
+  },
+  "thyrotropin alfa": {
+    "id": "DB00024",
+    "primary_name": "Thyrotropin alfa",
+    "normalized": "thyrotropin alfa",
+    "synonyms": []
+  },
+  "antihemophilic factor, human recombinant": {
+    "id": "DB00025",
+    "primary_name": "Antihemophilic factor, human recombinant",
+    "normalized": "antihemophilic factor, human recombinant",
+    "synonyms": []
+  },
+  "anakinra": {
+    "id": "DB00026",
+    "primary_name": "Anakinra",
+    "normalized": "anakinra",
+    "synonyms": []
+  },
+  "gramicidin d": {
+    "id": "DB00027",
+    "primary_name": "Gramicidin D",
+    "normalized": "gramicidin d",
+    "synonyms": []
+  },
+  "human immunoglobulin g": {
+    "id": "DB00028",
+    "primary_name": "Human immunoglobulin G",
+    "normalized": "human immunoglobulin g",
+    "synonyms": []
+  },
+  "anistreplase": {
+    "id": "DB00029",
+    "primary_name": "Anistreplase",
+    "normalized": "anistreplase",
+    "synonyms": []
+  },
+  "insulin human": {
+    "id": "DB00030",
+    "primary_name": "Insulin human",
+    "normalized": "insulin human",
+    "synonyms": []
+  },
+  "tenecteplase": {
+    "id": "DB00031",
+    "primary_name": "Tenecteplase",
+    "normalized": "tenecteplase",
+    "synonyms": []
+  },
+  "menotropins": {
+    "id": "DB00032",
+    "primary_name": "Menotropins",
+    "normalized": "menotropins",
+    "synonyms": []
+  },
+  "interferon gamma-1b": {
+    "id": "DB00033",
+    "primary_name": "Interferon gamma-1b",
+    "normalized": "interferon gamma-1b",
+    "synonyms": []
+  },
+  "interferon alfa-2a": {
+    "id": "DB00034",
+    "primary_name": "Interferon alfa-2a",
+    "normalized": "interferon alfa-2a",
+    "synonyms": []
+  },
+  "desmopressin": {
+    "id": "DB00035",
+    "primary_name": "Desmopressin",
+    "normalized": "desmopressin",
+    "synonyms": []
+  },
+  "coagulation factor viia recombinant human": {
+    "id": "DB00036",
+    "primary_name": "Coagulation factor VIIa Recombinant Human",
+    "normalized": "coagulation factor viia recombinant human",
+    "synonyms": []
+  },
+  "oprelvekin": {
+    "id": "DB00038",
+    "primary_name": "Oprelvekin",
+    "normalized": "oprelvekin",
+    "synonyms": []
+  },
+  "palifermin": {
+    "id": "DB00039",
+    "primary_name": "Palifermin",
+    "normalized": "palifermin",
+    "synonyms": []
+  },
+  "glucagon": {
+    "id": "DB00040",
+    "primary_name": "Glucagon",
+    "normalized": "glucagon",
+    "synonyms": []
+  },
+  "aldesleukin": {
+    "id": "DB00041",
+    "primary_name": "Aldesleukin",
+    "normalized": "aldesleukin",
+    "synonyms": []
+  },
+  "botulinum toxin type b": {
+    "id": "DB00042",
+    "primary_name": "Botulinum toxin type B",
+    "normalized": "botulinum toxin type b",
+    "synonyms": []
+  },
+  "omalizumab": {
+    "id": "DB00043",
+    "primary_name": "Omalizumab",
+    "normalized": "omalizumab",
+    "synonyms": []
+  },
+  "lutropin alfa": {
+    "id": "DB00044",
+    "primary_name": "Lutropin alfa",
+    "normalized": "lutropin alfa",
+    "synonyms": []
+  },
+  "lyme disease vaccine (recombinant ospa)": {
+    "id": "DB00045",
+    "primary_name": "Lyme disease vaccine (recombinant OspA)",
+    "normalized": "lyme disease vaccine (recombinant ospa)",
+    "synonyms": []
+  },
+  "insulin lispro": {
+    "id": "DB00046",
+    "primary_name": "Insulin lispro",
+    "normalized": "insulin lispro",
+    "synonyms": []
+  },
+  "insulin glargine": {
+    "id": "DB00047",
+    "primary_name": "Insulin glargine",
+    "normalized": "insulin glargine",
+    "synonyms": []
+  },
+  "collagenase clostridium histolyticum": {
+    "id": "DB00048",
+    "primary_name": "Collagenase clostridium histolyticum",
+    "normalized": "collagenase clostridium histolyticum",
+    "synonyms": []
+  },
+  "rasburicase": {
+    "id": "DB00049",
+    "primary_name": "Rasburicase",
+    "normalized": "rasburicase",
+    "synonyms": []
+  },
+  "cetrorelix": {
+    "id": "DB00050",
+    "primary_name": "Cetrorelix",
+    "normalized": "cetrorelix",
+    "synonyms": []
+  },
+  "adalimumab": {
+    "id": "DB00051",
+    "primary_name": "Adalimumab",
+    "normalized": "adalimumab",
+    "synonyms": []
+  },
+  "somatotropin": {
+    "id": "DB00052",
+    "primary_name": "Somatotropin",
+    "normalized": "somatotropin",
+    "synonyms": []
+  },
+  "imiglucerase": {
+    "id": "DB00053",
+    "primary_name": "Imiglucerase",
+    "normalized": "imiglucerase",
+    "synonyms": []
+  },
+  "abciximab": {
+    "id": "DB00054",
+    "primary_name": "Abciximab",
+    "normalized": "abciximab",
+    "synonyms": []
+  },
+  "drotrecogin alfa": {
+    "id": "DB00055",
+    "primary_name": "Drotrecogin alfa",
+    "normalized": "drotrecogin alfa",
+    "synonyms": []
+  },
+  "gemtuzumab ozogamicin": {
+    "id": "DB00056",
+    "primary_name": "Gemtuzumab ozogamicin",
+    "normalized": "gemtuzumab ozogamicin",
+    "synonyms": []
+  },
+  "indium in-111 satumomab pendetide": {
+    "id": "DB00057",
+    "primary_name": "Indium In-111 satumomab pendetide",
+    "normalized": "indium in-111 satumomab pendetide",
+    "synonyms": []
+  },
+  "alpha-1-proteinase inhibitor": {
+    "id": "DB00058",
+    "primary_name": "Alpha-1-proteinase inhibitor",
+    "normalized": "alpha-1-proteinase inhibitor",
+    "synonyms": []
+  },
+  "pegaspargase": {
+    "id": "DB00059",
+    "primary_name": "Pegaspargase",
+    "normalized": "pegaspargase",
+    "synonyms": []
+  },
+  "interferon beta-1a": {
+    "id": "DB00060",
+    "primary_name": "Interferon beta-1a",
+    "normalized": "interferon beta-1a",
+    "synonyms": []
+  },
+  "pegademase": {
+    "id": "DB00061",
+    "primary_name": "Pegademase",
+    "normalized": "pegademase",
+    "synonyms": []
+  },
+  "albumin human": {
+    "id": "DB00062",
+    "primary_name": "Albumin human",
+    "normalized": "albumin human",
+    "synonyms": []
+  },
+  "eptifibatide": {
+    "id": "DB00063",
+    "primary_name": "Eptifibatide",
+    "normalized": "eptifibatide",
+    "synonyms": []
+  },
+  "infliximab": {
+    "id": "DB00065",
+    "primary_name": "Infliximab",
+    "normalized": "infliximab",
+    "synonyms": []
+  },
+  "follitropin": {
+    "id": "DB00066",
+    "primary_name": "Follitropin",
+    "normalized": "follitropin",
+    "synonyms": []
+  },
+  "vasopressin": {
+    "id": "DB00067",
+    "primary_name": "Vasopressin",
+    "normalized": "vasopressin",
+    "synonyms": []
+  },
+  "interferon beta-1b": {
+    "id": "DB00068",
+    "primary_name": "Interferon beta-1b",
+    "normalized": "interferon beta-1b",
+    "synonyms": []
+  },
+  "interferon alfacon-1": {
+    "id": "DB00069",
+    "primary_name": "Interferon alfacon-1",
+    "normalized": "interferon alfacon-1",
+    "synonyms": []
+  },
+  "hyaluronidase (ovine)": {
+    "id": "DB00070",
+    "primary_name": "Hyaluronidase (ovine)",
+    "normalized": "hyaluronidase (ovine)",
+    "synonyms": []
+  },
+  "insulin pork": {
+    "id": "DB00071",
+    "primary_name": "Insulin pork",
+    "normalized": "insulin pork",
+    "synonyms": []
+  },
+  "trastuzumab": {
+    "id": "DB00072",
+    "primary_name": "Trastuzumab",
+    "normalized": "trastuzumab",
+    "synonyms": []
+  },
+  "rituximab": {
+    "id": "DB00073",
+    "primary_name": "Rituximab",
+    "normalized": "rituximab",
+    "synonyms": []
+  },
+  "basiliximab": {
+    "id": "DB00074",
+    "primary_name": "Basiliximab",
+    "normalized": "basiliximab",
+    "synonyms": []
+  },
+  "muromonab": {
+    "id": "DB00075",
+    "primary_name": "Muromonab",
+    "normalized": "muromonab",
+    "synonyms": []
+  },
+  "digoxin immune fab (ovine)": {
+    "id": "DB00076",
+    "primary_name": "Digoxin Immune Fab (Ovine)",
+    "normalized": "digoxin immune fab (ovine)",
+    "synonyms": []
+  },
+  "ibritumomab tiuxetan": {
+    "id": "DB00078",
+    "primary_name": "Ibritumomab tiuxetan",
+    "normalized": "ibritumomab tiuxetan",
+    "synonyms": []
+  },
+  "daptomycin": {
+    "id": "DB00080",
+    "primary_name": "Daptomycin",
+    "normalized": "daptomycin",
+    "synonyms": []
+  },
+  "tositumomab": {
+    "id": "DB00081",
+    "primary_name": "Tositumomab",
+    "normalized": "tositumomab",
+    "synonyms": []
+  },
+  "pegvisomant": {
+    "id": "DB00082",
+    "primary_name": "Pegvisomant",
+    "normalized": "pegvisomant",
+    "synonyms": []
+  },
+  "botulinum toxin type a": {
+    "id": "DB00083",
+    "primary_name": "Botulinum toxin type A",
+    "normalized": "botulinum toxin type a",
+    "synonyms": []
+  },
+  "pancrelipase": {
+    "id": "DB00085",
+    "primary_name": "Pancrelipase",
+    "normalized": "pancrelipase",
+    "synonyms": []
+  },
+  "streptokinase": {
+    "id": "DB00086",
+    "primary_name": "Streptokinase",
+    "normalized": "streptokinase",
+    "synonyms": []
+  },
+  "alemtuzumab": {
+    "id": "DB00087",
+    "primary_name": "Alemtuzumab",
+    "normalized": "alemtuzumab",
+    "synonyms": []
+  },
+  "alglucerase": {
+    "id": "DB00088",
+    "primary_name": "Alglucerase",
+    "normalized": "alglucerase",
+    "synonyms": []
+  },
+  "capromab pendetide": {
+    "id": "DB00089",
+    "primary_name": "Capromab pendetide",
+    "normalized": "capromab pendetide",
+    "synonyms": []
+  },
+  "laronidase": {
+    "id": "DB00090",
+    "primary_name": "Laronidase",
+    "normalized": "laronidase",
+    "synonyms": []
+  },
+  "cyclosporine": {
+    "id": "DB00091",
+    "primary_name": "Cyclosporine",
+    "normalized": "cyclosporine",
+    "synonyms": []
+  },
+  "alefacept": {
+    "id": "DB00092",
+    "primary_name": "Alefacept",
+    "normalized": "alefacept",
+    "synonyms": []
+  },
+  "felypressin": {
+    "id": "DB00093",
+    "primary_name": "Felypressin",
+    "normalized": "felypressin",
+    "synonyms": []
+  },
+  "urofollitropin": {
+    "id": "DB00094",
+    "primary_name": "Urofollitropin",
+    "normalized": "urofollitropin",
+    "synonyms": []
+  },
+  "efalizumab": {
+    "id": "DB00095",
+    "primary_name": "Efalizumab",
+    "normalized": "efalizumab",
+    "synonyms": []
+  },
+  "choriogonadotropin alfa": {
+    "id": "DB00097",
+    "primary_name": "Choriogonadotropin alfa",
+    "normalized": "choriogonadotropin alfa",
+    "synonyms": []
+  },
+  "antithymocyte immunoglobulin (rabbit)": {
+    "id": "DB00098",
+    "primary_name": "Antithymocyte immunoglobulin (rabbit)",
+    "normalized": "antithymocyte immunoglobulin (rabbit)",
+    "synonyms": []
+  },
+  "filgrastim": {
+    "id": "DB00099",
+    "primary_name": "Filgrastim",
+    "normalized": "filgrastim",
+    "synonyms": []
+  },
+  "coagulation factor ix (recombinant)": {
+    "id": "DB00100",
+    "primary_name": "Coagulation Factor IX (Recombinant)",
+    "normalized": "coagulation factor ix (recombinant)",
+    "synonyms": []
+  },
+  "becaplermin": {
+    "id": "DB00102",
+    "primary_name": "Becaplermin",
+    "normalized": "becaplermin",
+    "synonyms": []
+  },
+  "agalsidase beta": {
+    "id": "DB00103",
+    "primary_name": "Agalsidase beta",
+    "normalized": "agalsidase beta",
+    "synonyms": []
+  },
+  "octreotide": {
+    "id": "DB00104",
+    "primary_name": "Octreotide",
+    "normalized": "octreotide",
+    "synonyms": []
+  },
+  "interferon alfa-2b": {
+    "id": "DB00105",
+    "primary_name": "Interferon alfa-2b",
+    "normalized": "interferon alfa-2b",
+    "synonyms": []
+  },
+  "abarelix": {
+    "id": "DB00106",
+    "primary_name": "Abarelix",
+    "normalized": "abarelix",
+    "synonyms": []
+  },
+  "oxytocin": {
+    "id": "DB00107",
+    "primary_name": "Oxytocin",
+    "normalized": "oxytocin",
+    "synonyms": []
+  },
+  "natalizumab": {
+    "id": "DB00108",
+    "primary_name": "Natalizumab",
+    "normalized": "natalizumab",
+    "synonyms": []
+  },
+  "enfuvirtide": {
+    "id": "DB00109",
+    "primary_name": "Enfuvirtide",
+    "normalized": "enfuvirtide",
+    "synonyms": []
+  },
+  "palivizumab": {
+    "id": "DB00110",
+    "primary_name": "Palivizumab",
+    "normalized": "palivizumab",
+    "synonyms": []
+  },
+  "daclizumab": {
+    "id": "DB00111",
+    "primary_name": "Daclizumab",
+    "normalized": "daclizumab",
+    "synonyms": []
+  },
+  "bevacizumab": {
+    "id": "DB00112",
+    "primary_name": "Bevacizumab",
+    "normalized": "bevacizumab",
+    "synonyms": []
+  },
+  "technetium tc-99m arcitumomab": {
+    "id": "DB00113",
+    "primary_name": "Technetium Tc-99m arcitumomab",
+    "normalized": "technetium tc-99m arcitumomab",
+    "synonyms": []
+  },
+  "pyridoxal phosphate": {
+    "id": "DB00114",
+    "primary_name": "Pyridoxal phosphate",
+    "normalized": "pyridoxal phosphate",
+    "synonyms": []
+  },
+  "cyanocobalamin": {
+    "id": "DB00115",
+    "primary_name": "Cyanocobalamin",
+    "normalized": "cyanocobalamin",
+    "synonyms": []
+  },
+  "tetrahydrofolic acid": {
+    "id": "DB00116",
+    "primary_name": "Tetrahydrofolic acid",
+    "normalized": "tetrahydrofolic acid",
+    "synonyms": []
+  }
+}

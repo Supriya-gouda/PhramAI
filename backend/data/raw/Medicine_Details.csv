@@ -1,0 +1,72 @@
+name,strength,form,uses
+Aspirin,75 mg,Tablet,"Pain relief, antiplatelet therapy"
+Warfarin,5 mg,Tablet,"Prevention of blood clots, DVT, PE"
+Metformin,500 mg,Tablet,Type 2 diabetes mellitus
+Lisinopril,10 mg,Tablet,"Hypertension, heart failure"
+Simvastatin,20 mg,Tablet,High cholesterol
+Ibuprofen,200 mg,Tablet,"Pain, inflammation, fever"
+Paracetamol,500 mg,Tablet,Pain and fever
+Amoxicillin,250 mg,Capsule,Bacterial infections
+Azithromycin,500 mg,Tablet,Respiratory and skin infections
+Ciprofloxacin,500 mg,Tablet,Urinary tract and respiratory infections
+Insulin,Variable,Injection,Diabetes mellitus
+Amlodipine,5 mg,Tablet,"Hypertension, angina"
+Losartan,50 mg,Tablet,Hypertension
+Omeprazole,20 mg,Capsule,"GERD, peptic ulcer disease"
+Diclofenac,50 mg,Tablet,"Pain, arthritis"
+Naproxen,250 mg,Tablet,"Pain, inflammation, arthritis"
+Cetirizine,10 mg,Tablet,"Allergy, rhinitis, urticaria"
+Montelukast,10 mg,Tablet,"Asthma, allergic rhinitis"
+Salbutamol,100 µg,Inhaler,"Asthma, bronchospasm"
+Atorvastatin,10 mg,Tablet,High cholesterol
+Rosuvastatin,10 mg,Tablet,High cholesterol
+Levothyroxine,50 µg,Tablet,Hypothyroidism
+Furosemide,40 mg,Tablet,"Edema, hypertension"
+Spironolactone,25 mg,Tablet,"Heart failure, edema, hyperaldosteronism"
+Digoxin,0.25 mg,Tablet,"Heart failure, atrial fibrillation"
+Clopidogrel,75 mg,Tablet,Stroke and MI prevention
+Metoprolol,50 mg,Tablet,"Hypertension, angina, arrhythmia"
+Ramipril,5 mg,Capsule,"Hypertension, heart failure"
+Enalapril,10 mg,Tablet,"Hypertension, heart failure"
+Candesartan,8 mg,Tablet,Hypertension
+Telmisartan,40 mg,Tablet,Hypertension
+Irbesartan,150 mg,Tablet,"Hypertension, diabetic nephropathy"
+Glipizide,5 mg,Tablet,Type 2 diabetes
+Glyburide,5 mg,Tablet,Type 2 diabetes
+Pioglitazone,15 mg,Tablet,Type 2 diabetes
+Sitagliptin,100 mg,Tablet,Type 2 diabetes
+Empagliflozin,10 mg,Tablet,"Type 2 diabetes, heart failure"
+Pravastatin,20 mg,Tablet,High cholesterol
+Lovastatin,20 mg,Tablet,High cholesterol
+Fluvastatin,40 mg,Capsule,High cholesterol
+Ezetimibe,10 mg,Tablet,High cholesterol
+Fenofibrate,145 mg,Tablet,Hypertriglyceridemia
+Amiodarone,200 mg,Tablet,Arrhythmias
+Hydrochlorothiazide,25 mg,Tablet,"Hypertension, edema"
+Indapamide,2.5 mg,Tablet,Hypertension
+Metolazone,5 mg,Tablet,"Edema, heart failure"
+Bumetanide,1 mg,Tablet,"Edema, CHF"
+Torsemide,10 mg,Tablet,"Edema, hypertension"
+Ranitidine,150 mg,Tablet,"GERD, peptic ulcer"
+Diltiazem,60 mg,Tablet,"Hypertension, angina"
+Verapamil,80 mg,Tablet,"Hypertension, arrhythmia"
+Carvedilol,12.5 mg,Tablet,"Heart failure, hypertension"
+Atenolol,50 mg,Tablet,"Hypertension, angina"
+Captopril,25 mg,Tablet,"Hypertension, heart failure"
+Erythromycin,250 mg,Tablet,Respiratory infections
+Propafenone,150 mg,Tablet,Arrhythmias
+Quinidine,200 mg,Tablet,Arrhythmias
+Procainamide,500 mg,Injection,Ventricular arrhythmias
+Sotalol,80 mg,Tablet,Arrhythmias
+Allopurinol,100 mg,Tablet,"Gout, hyperuricemia"
+Phenobarbital,30 mg,Tablet,"Epilepsy, sedation"
+Potassium,600 mg,Tablet,Hypokalemia
+Calcium,500 mg,Tablet,"Hypocalcemia, osteoporosis"
+Lithium,300 mg,Tablet,Bipolar disorder
+Cyclosporine,25 mg,Capsule,Transplant rejection prevention
+Rifampin,300 mg,Capsule,Tuberculosis
+Theophylline,200 mg,Tablet,"Asthma, COPD"
+Ketoconazole,200 mg,Tablet,Fungal infections
+Gemfibrozil,600 mg,Tablet,Hypertriglyceridemia
+Enoxaparin,40 mg/0.4 mL,Injection,"DVT, PE prevention"
+Furosemide,40 mg,Tablet,"Edema, hypertension"

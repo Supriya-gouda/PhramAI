@@ -1,0 +1,74 @@
+drug_name,class,indications
+Aspirin,NSAID / Antiplatelet,"Pain, Fever, Thrombosis prevention"
+Warfarin,Anticoagulant,Prevention of thromboembolism
+Metformin,Antidiabetic (Biguanide),Type 2 Diabetes Mellitus
+Lisinopril,ACE Inhibitor,"Hypertension, Heart failure"
+Simvastatin,Statin,Hyperlipidemia
+Ibuprofen,NSAID,"Pain, Inflammation, Fever"
+Paracetamol,Analgesic / Antipyretic,"Pain, Fever"
+Amoxicillin,Penicillin Antibiotic,Bacterial infections
+Azithromycin,Macrolide Antibiotic,Respiratory and skin infections
+Ciprofloxacin,Fluoroquinolone Antibiotic,"Urinary, GI, and respiratory infections"
+Insulin,Antidiabetic (Hormone),Type 1 & 2 Diabetes Mellitus
+Amlodipine,Calcium Channel Blocker,"Hypertension, Angina"
+Losartan,Angiotensin II Receptor Blocker (ARB),Hypertension
+Omeprazole,Proton Pump Inhibitor (PPI),"GERD, Peptic ulcer"
+Diclofenac,NSAID,"Pain, Inflammation"
+Naproxen,NSAID,"Pain, Arthritis"
+Cetirizine,Antihistamine (2nd Gen),"Allergic rhinitis, Urticaria"
+Montelukast,Leukotriene Receptor Antagonist,"Asthma, Allergic rhinitis"
+Salbutamol,Beta-2 Agonist (Bronchodilator),"Asthma, COPD"
+Atorvastatin,Statin,Hypercholesterolemia
+Rosuvastatin,Statin,"Dyslipidemia, CV risk reduction"
+Levothyroxine,Thyroid Hormone,Hypothyroidism
+Furosemide,Loop Diuretic,"Edema, Hypertension"
+Spironolactone,Potassium-sparing Diuretic,"Heart failure, Edema, Hyperaldosteronism"
+Digoxin,Cardiac Glycoside,"Heart failure, Atrial fibrillation"
+Clopidogrel,Antiplatelet,"Myocardial infarction, Stroke prevention"
+Metoprolol,Beta Blocker,"Hypertension, Angina, Heart failure"
+Ramipril,ACE Inhibitor,"Hypertension, Heart failure"
+Enalapril,ACE Inhibitor,"Hypertension, Heart failure"
+Candesartan,ARB,"Hypertension, Heart failure"
+Telmisartan,ARB,Hypertension
+Irbesartan,ARB,"Hypertension, Diabetic nephropathy"
+Glipizide,Sulfonylurea (Antidiabetic),Type 2 Diabetes
+Glyburide,Sulfonylurea (Antidiabetic),Type 2 Diabetes
+Pioglitazone,Thiazolidinedione (Antidiabetic),Type 2 Diabetes
+Sitagliptin,DPP-4 Inhibitor,Type 2 Diabetes
+Empagliflozin,SGLT2 Inhibitor,"Type 2 Diabetes, Heart failure"
+Pravastatin,Statin,Hyperlipidemia
+Lovastatin,Statin,Hypercholesterolemia
+Fluvastatin,Statin,Hyperlipidemia
+Ezetimibe,Cholesterol Absorption Inhibitor,Hypercholesterolemia
+Fenofibrate,Fibrate,Hypertriglyceridemia
+Amiodarone,Antiarrhythmic (Class III),Atrial and ventricular arrhythmias
+Hydrochlorothiazide,Thiazide Diuretic,"Hypertension, Edema"
+Indapamide,Thiazide-like Diuretic,Hypertension
+Metolazone,Thiazide-like Diuretic,"Edema, CHF"
+Bumetanide,Loop Diuretic,"Edema, CHF"
+Torsemide,Loop Diuretic,"Edema, Hypertension"
+Ranitidine,H2 Receptor Antagonist,"GERD, Peptic ulcer"
+Diltiazem,Calcium Channel Blocker (Non-DHP),"Hypertension, Angina, Arrhythmia"
+Verapamil,Calcium Channel Blocker (Non-DHP),"Hypertension, Arrhythmia"
+Carvedilol,Beta Blocker (Non-selective),"Heart failure, Hypertension"
+Atenolol,Beta Blocker,"Hypertension, Angina"
+Captopril,ACE Inhibitor,"Hypertension, Heart failure"
+Amoxicillin,Penicillin Antibiotic,Bacterial infections
+Erythromycin,Macrolide Antibiotic,Respiratory infections
+Propafenone,Antiarrhythmic (Class IC),Supraventricular arrhythmias
+Quinidine,Antiarrhythmic (Class IA),Atrial and ventricular arrhythmias
+Procainamide,Antiarrhythmic (Class IA),Ventricular arrhythmias
+Sotalol,Beta Blocker / Class III Antiarrhythmic,Arrhythmia
+Allopurinol,Xanthine Oxidase Inhibitor,"Gout, Hyperuricemia"
+Phenobarbital,Barbiturate (Anticonvulsant),"Seizures, Sedation"
+Potassium,Electrolyte Supplement,Hypokalemia
+Calcium,Mineral Supplement,"Hypocalcemia, Osteoporosis"
+Lithium,Mood Stabilizer,Bipolar disorder
+Cyclosporine,Immunosuppressant,Transplant rejection prophylaxis
+Rifampin,Antitubercular,Tuberculosis
+Theophylline,Bronchodilator,"Asthma, COPD"
+Ketoconazole,Antifungal (Imidazole),Fungal infections
+Alcohol,CNS Depressant,Recreational (interaction risk)
+Gemfibrozil,Fibrate,Hypertriglyceridemia
+Clopidogrel,Antiplatelet,Stroke and MI prevention
+Enoxaparin,Low Molecular Weight Heparin,"DVT, PE prevention/treatment"
