@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💊 PharmAI
+# PharmAI
 ### AI-Powered Medical Prescription Safety System
 
 ![PharmAI](FrontPage.png)
@@ -12,82 +12,55 @@
 
 **Intelligent prescription validation platform combining AI, medical datasets, and clinical decision support**
 
-[Features](#-features) • [Installation](#-installation) • [Quick Start](#-quick-start) • [API](#-api-endpoints) • [Contributing](#-contributing)
+[Features](#features) • [Installation](#installation) • [Quick Start](#quick-start) • [API](#api-endpoints) • [Contributing](#contributing)
 
 </div>
 
 ---
 
-## 📋 Overview
+## Overview
 
 PharmAI is an AI-powered prescription safety platform that validates medications, detects drug interactions, verifies dosages, and predicts clinical risks using IBM Granite AI and comprehensive medical databases.
 
 ---
 
-## 🎯 Features
+## Features
 
-<table>
-<tr>
-<td width="50%">
+### AI Drug Extraction
+- IBM Granite 3.2-2B AI model for intelligent prescription parsing
+- Extracts drug name, dosage, frequency, and route of administration
+- Drug name normalization using DrugBank vocabulary
+- Automatic fallback to regex-based extraction for reliability
 
-### 🔍 AI Drug Extraction
-- IBM Granite 3.2-2B AI model
-- Extracts name, dose, frequency, route
-- Normalizes drug names (DrugBank)
-- Regex fallback for reliability
+### Drug Interaction Detection
+- Database of 53,755+ drug-drug interactions from DrugBank
+- Severity classification: Major, Moderate, Minor
+- Real-time interaction analysis for multiple medications
+- Clinical recommendations based on interaction severity
 
-</td>
-<td width="50%">
+### Dosage Verification
+- Validation against WHO ATC/DDD (Defined Daily Dose) standards
+- Age-specific dosage recommendations
+- Support for Pediatric, Adult, and Geriatric populations
+- Automated safety alerts for subtherapeutic or toxic doses
 
-### ⚠️ Interaction Detection
-- 53,755+ drug interactions
-- Major/Moderate/Minor severity
-- Real-time analysis
-- Clinical recommendations
+### Alternative Medicine Recommendations
+- Suggests safer and cost-effective medication alternatives
+- Based on ATC (Anatomical Therapeutic Chemical) classification
+- Prioritizes WHO Essential Medicines List
+- Includes regional database with 194+ Indian medicines
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+### Personalized Risk Prediction
+- Comprehensive risk scoring from 0-100
+- Weighted algorithm: Interactions (60%), Dosage (30%), Polypharmacy (10%)
+- Five risk levels: Safe, Low Risk, Moderate Risk, High Risk, Dangerous
+- Personalized assessment based on patient age and weight
 
-### 💊 Dosage Verification
-- WHO ATC/DDD standards
-- Age-specific validation
-- Pediatric/Adult/Geriatric
-- Safety alerts
-
-</td>
-<td width="50%">
-
-### 🔄 Alternative Medicines
-- Safer/cost-effective options
-- ATC classification
-- WHO Essential Medicines priority
-- Regional database (194+ Indian meds)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📊 Risk Prediction
-- 0-100 risk scoring
-- Interaction (60%) + Dosage (30%) + Polypharmacy (10%)
-- 5 risk levels: Safe → Dangerous
-- Personalized by age/weight
-
-</td>
-<td width="50%">
-
-### 🔊 Accessibility
-- Speech-to-Text (Whisper)
-- Text-to-Speech (Coqui TTS)
-- Multi-modal input
-- Inclusive design
-
-</td>
-</tr>
-</table>
+### Accessibility Features
+- Speech-to-Text using OpenAI Whisper for voice prescriptions
+- Text-to-Speech using Coqui TTS for audio feedback
+- Multi-modal input support (text, voice)
+- Designed for visually impaired and low-literacy users
 
 ---
 
@@ -116,14 +89,14 @@ PharmAI/
 
 ---
 
-## 📦 Installation
+## Installation
 
 ### Prerequisites
-- Python 3.10+
-- 8GB RAM (for AI models)
+- Python 3.10 or higher
+- 8GB RAM minimum (for AI models)
 - Hugging Face account
 
-### Setup
+### Setup Instructions
 
 ```bash
 # Clone repository
@@ -138,22 +111,22 @@ cp .env.example .env
 # Edit .env and add: HF_TOKEN=hf_your_token_here
 ```
 
-**Get HF Token**: [huggingface.co/settings/tokens](https://huggingface.co/settings/tokens)  
-**Accept License**: [IBM Granite Model](https://huggingface.co/ibm-granite/granite-3.2-2b-instruct)
+Get your Hugging Face token from [huggingface.co/settings/tokens](https://huggingface.co/settings/tokens)
 
-### Prepare Data
+Accept the IBM Granite model license at [IBM Granite Model](https://huggingface.co/ibm-granite/granite-3.2-2b-instruct)
+
+### Data Preparation
 
 ```bash
 cd backend/data
-python generate_datasets.py      # Create sample datasets
 python preprocess_datasets.py    # Process datasets
 ```
 
-> **Note**: `db_drug_interactions.csv` (8MB) and `full database.xml` are excluded due to size/licensing.  
-> For production, obtain DrugBank license and add these files to `backend/data/raw/`
+**Note**: The files `db_drug_interactions.csv` (8MB) and `full database.xml` are excluded from the repository due to size and licensing restrictions. For production use, obtain a DrugBank license and add these files to `backend/data/raw/`
 
 ---
 
+## Quick Start
 ## 🚀 Quick Start
 
 ### Launch Application
@@ -162,11 +135,11 @@ python preprocess_datasets.py    # Process datasets
 .\start_app.ps1
 ```
 
-This automated script:
-- ✅ Verifies Python & dependencies
-- ✅ Checks data files
-- ✅ Starts backend (http://127.0.0.1:8000)
-- ✅ Launches frontend (http://localhost:8501)
+This automated script will:
+- Verify Python installation and dependencies
+- Check for required data files
+- Start backend server at http://127.0.0.1:8000
+- Launch frontend application at http://localhost:8501
 
 ### Manual Start
 
@@ -182,38 +155,38 @@ streamlit run app.py
 ```
 
 ### Access Points
-- **Frontend**: http://localhost:8501
-- **API Docs**: http://localhost:8000/docs
-- **Health**: http://localhost:8000/health
+- Frontend Application: http://localhost:8501
+- API Documentation: http://localhost:8000/docs
+- Health Check: http://localhost:8000/health
 
 ---
 
-## 📖 Usage
+## Usage
 
-### Extract & Analyze Prescriptions
-1. Go to **Text Extraction** page
-2. Enter prescription text and patient info (age, weight)
-3. Click **Extract & Analyze**
-4. View: medications, risk score, recommendations
+### Extract and Analyze Prescriptions
+1. Navigate to Text Extraction page
+2. Enter prescription text and patient information (age, weight)
+3. Click Extract and Analyze
+4. Review extracted medications, risk score, and recommendations
 
 ### Check Drug Interactions
-1. Navigate to **Interactions** page
+1. Go to Interactions page
 2. Enter medications (one per line)
-3. View interaction severity and recommendations
+3. Review interaction severity levels and clinical recommendations
 
 ### Verify Dosage
-1. Go to **Dosage Checker**
-2. Enter patient info and medication details
-3. Compare against WHO DDD standards
+1. Open Dosage Checker page
+2. Enter patient information and medication details
+3. Compare prescribed dose against WHO DDD standards
 
-### Find Alternatives
-1. Visit **Alternative Medicines**
-2. Enter medication name and reason
-3. View safer/cost-effective options
+### Find Alternative Medicines
+1. Visit Alternative Medicines page
+2. Enter current medication name and reason for alternative
+3. Review safer or more cost-effective options
 
 ---
 
-## 🔧 API Endpoints
+## API Endpoints
 
 ### Extract Medications
 ```http
@@ -253,11 +226,11 @@ POST /risk/predict
 }
 ```
 
-**Full API Docs**: http://localhost:8000/docs
+Full interactive API documentation available at: http://localhost:8000/docs
 
 ---
 
-## 📊 Datasets
+## Datasets
 
 | Dataset | Records | Purpose |
 |---------|---------|---------|
@@ -267,60 +240,64 @@ POST /risk/predict
 | Essential Medicines List | 500+ | Alternative recommendations |
 | Indian Medicines | 194+ | Regional drug database |
 
-**\*Note**: DrugBank interaction data requires separate license and is not included in repository.
+Note: DrugBank interaction data requires a separate license and is not included in this repository.
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
-**For educational and research purposes only**
+This software is for educational and research purposes only.
+
 - Not a substitute for professional medical advice
 - Always consult licensed healthcare professionals
 - Not FDA approved for clinical use
+- Users assume all responsibility for decisions based on system outputs
 
 ---
 
-## 🤝 Contributing
-
-Contributions welcome! Areas for improvement:
-- Expand medical datasets
-- Improve NLP accuracy
-- Add multi-language support
-- Enhance UI/UX
-- Add test coverage
-
----
-
-## 📄 License
-
-MIT License - see [LICENSE](LICENSE) file for details
+## Contributing
+Contributions are welcome. Areas for improvement include:
+- Expanding medical datasets
+- Improving NLP extraction accuracy
+- Adding multi-language support
+- Enhancing user interface and experience
+- Increasing test coverage
 
 ---
 
-## 🙏 Acknowledgments
+## License
 
-- **IBM Research** - Granite AI model
-- **Hugging Face** - Model hosting
-- **WHO** - Medical standards & datasets
-- **DrugBank** - Pharmaceutical database
-- **OpenAI** - Whisper STT
-- **Coqui AI** - TTS engine
+MIT License - see LICENSE file for details
 
 ---
 
-## 📧 Contact
+## Acknowledgments
 
-**Developer**: Supriya Gouda  
-**Repository**: [github.com/Supriya-gouda/PhramAI](https://github.com/Supriya-gouda/PhramAI)  
-**Issues**: [Report a bug](https://github.com/Supriya-gouda/PhramAI/issues)
+- IBM Research - Granite AI language model
+- Hugging Face - Model hosting and transformers library
+- World Health Organization - Medical standards and datasets
+- DrugBank - Pharmaceutical interaction database
+- OpenAI - Whisper speech recognition
+- Coqui AI - Text-to-speech engine
+
+---
+
+## Contact
+
+**Developer**: Supriya Gouda
+
+**Repository**: [github.com/Supriya-gouda/PhramAI](https://github.com/Supriya-gouda/PhramAI)
+
+**Report Issues**: [github.com/Supriya-gouda/PhramAI/issues](https://github.com/Supriya-gouda/PhramAI/issues)
 
 ---
 
 <div align="center">
 
-**Built with ❤️ for safer prescriptions**
+Built for safer prescriptions and better healthcare outcomes
 
 [![GitHub stars](https://img.shields.io/github/stars/Supriya-gouda/PhramAI?style=social)](https://github.com/Supriya-gouda/PhramAI)
 [![GitHub forks](https://img.shields.io/github/forks/Supriya-gouda/PhramAI?style=social)](https://github.com/Supriya-gouda/PhramAI)
 
+</div>
 </div>
