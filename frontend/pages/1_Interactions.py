@@ -4,8 +4,28 @@ import json
 
 st.set_page_config(page_title="Drug Interactions", page_icon="⚠️", layout="wide")
 
-st.title("⚠️ Drug-Drug Interaction Checker")
-st.write("Check for potentially harmful interactions between medications")
+# Custom CSS with dark blue theme
+st.markdown("""
+<style>
+    .main { background: linear-gradient(135deg, #0f2027 0%, #203a43 50%, #2c5364 100%); }
+    .page-header {
+        background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+        padding: 2.5rem;
+        border-radius: 15px;
+        color: white;
+        margin-bottom: 2rem;
+        box-shadow: 0 8px 16px rgba(0,0,0,0.3);
+        text-align: center;
+    }
+    .page-header h1 { font-size: 2.5rem; margin: 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); }
+    .interaction-major { background: linear-gradient(135deg, #eb3349 0%, #f45c43 100%); border-left: 5px solid #c62828; padding: 1.5rem; border-radius: 10px; margin: 1rem 0; color: white; box-shadow: 0 4px 10px rgba(0,0,0,0.3); }
+    .interaction-moderate { background: linear-gradient(135deg, #f7971e 0%, #ffd200 100%); border-left: 5px solid #f57c00; padding: 1.5rem; border-radius: 10px; margin: 1rem 0; color: #333; box-shadow: 0 4px 10px rgba(0,0,0,0.3); }
+    .interaction-minor { background: linear-gradient(135deg, #1a2980 0%, #26d0ce 100%); border-left: 5px solid #0277bd; padding: 1.5rem; border-radius: 10px; margin: 1rem 0; color: white; box-shadow: 0 4px 10px rgba(0,0,0,0.3); }
+    hr { border: none; height: 2px; background: linear-gradient(90deg, transparent, rgba(255,255,255,0.3), transparent); margin: 2rem 0; }
+</style>
+""", unsafe_allow_html=True)
+
+st.markdown('<div class="page-header"><h1>⚠️ Drug-Drug Interaction Checker</h1><p style="margin:0.5rem 0 0 0; font-size:1.1rem;">Check for potentially harmful interactions between medications</p></div>', unsafe_allow_html=True)
 
 # Backend URL
 BACKEND_URL = "http://localhost:8000"

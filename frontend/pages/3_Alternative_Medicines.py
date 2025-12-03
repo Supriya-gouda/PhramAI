@@ -3,8 +3,34 @@ import requests
 
 st.set_page_config(page_title="Alternative Medicines", page_icon="🔄", layout="wide")
 
-st.title("🔄 Alternative Medicine Recommender")
-st.write("Find safer or more cost-effective alternatives based on ATC classification & WHO Essential Medicines List")
+# Custom CSS with dark blue theme
+st.markdown("""
+<style>
+    .main { background: linear-gradient(135deg, #0f2027 0%, #203a43 50%, #2c5364 100%); }
+    .page-header {
+        background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+        padding: 2.5rem;
+        border-radius: 15px;
+        color: white;
+        margin-bottom: 2rem;
+        box-shadow: 0 8px 16px rgba(0,0,0,0.3);
+        text-align: center;
+    }
+    .page-header h1 { font-size: 2.5rem; margin: 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); }
+    .alt-card { 
+        background: linear-gradient(135deg, #1a2980 0%, #26d0ce 100%); 
+        padding: 1.5rem; 
+        border-radius: 15px; 
+        border: 2px solid rgba(255,255,255,0.1); 
+        margin: 1rem 0; 
+        box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+        color: white;
+    }
+    hr { border: none; height: 2px; background: linear-gradient(90deg, transparent, rgba(255,255,255,0.3), transparent); margin: 2rem 0; }
+</style>
+""", unsafe_allow_html=True)
+
+st.markdown('<div class="page-header"><h1>🔄 Alternative Medicine Recommender</h1><p style="margin:0.5rem 0 0 0; font-size:1.1rem;">Find safer or more cost-effective alternatives based on ATC classification & WHO Essential Medicines List</p></div>', unsafe_allow_html=True)
 
 BACKEND_URL = "http://localhost:8000"
 

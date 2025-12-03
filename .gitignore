@@ -80,11 +80,15 @@ Thumbs.db
 *.temp
 *.bak
 
-# Large datasets (uncomment if needed)
-*.csv
-*.xml
-backend/data/raw/*.csv
+# Large/Proprietary datasets
+# Exclude large XML database
 backend/data/full database.xml
+
+# Exclude proprietary DrugBank interaction data (8MB+, licensing restrictions)
+backend/data/raw/db_drug_interactions.csv
+
+# Exclude processed interactions derived from proprietary data
+backend/data/processed/interactions.parquet
 
 # Model files (uncomment if models are large)
 # *.pkl
